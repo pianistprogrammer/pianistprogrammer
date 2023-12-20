@@ -1,4 +1,4 @@
-# Welcome to Jeremiah Abimbola's GitHub Profile! 👋
+# I am Pianistprogrammer 👋
 
 ## About Me
 Hey there! I'm Jeremiah Abimbola, a passionate PhD student in Poland researching artificial intelligent models fused with music retrieval. Besides academia, I'm a professional pianist and a software engineer. I find joy in playing the piano, creating tutorial videos, contributing to open-source projects, and embracing continuous learning. When I'm not engaged in research or coding, you'll often find me singing, crafting beats, or indulging in video games.
@@ -22,7 +22,7 @@ I'm open to collaborating on projects related to AI, music, software development
 
 ## 📫 Connect With Me
 - LinkedIn: [Jeremiah Abimbola](https://www.linkedin.com/in/jeremiahabimbola)
-- Email: [Your Email Address]
+- Email: pianistprogrammer[at]gmail.com
 
 ## ⚡ Fun Fact
 Many people think I program the piano because I call myself pianistprogrammer.
